@@ -1,0 +1,911 @@
+﻿mse_version: 2.0.2
+game: kingdomduels
+game_version: 2024-10-29
+stylesheet: standard
+stylesheet_version: 2024-10-29
+set_info:
+	title: Volume 1
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:41:26
+	time_modified: 2024-11-24 01:23:57
+	card_type: normal monster
+	name: Cyclops
+	image: image11.png
+	type: Monster|Beast|Warrior
+	attribute: earth
+	grade: level level 4
+	textbox: If this card attacks an opponent monster, and that monster is not destroyed after damage calculation: you can Battle Lock it for one turn.
+	effects: If this card attacks an opponent monster, and that monster is not destroyed after damage calculation: you can Battle Lock it for one turn.
+	atk: 1200
+	def: 1000
+	atkbonus: +360
+	defbonus: +300
+	cardid: <i-setitalics>VOL1-01</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:47:33
+	time_modified: 2024-11-24 01:29:33
+	name: Dark Magician
+	image: image18.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 7
+	textbox: This card's Summon cannot be negated.
+	effects: This card's Summon cannot be negated.
+	atk: 2500
+	def: 2100
+	atkbonus: +750
+	defbonus: +630
+	cardid: <i-setitalics>VOL1-02</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:47:52
+	time_modified: 2024-11-24 01:29:38
+	name: Gaia The Fierce Knight
+	image: image19.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 7
+	textbox: While face-up on the field, this card is also considered LIGHT-Attribute
+	effects: While face-up on the field, this card is also considered LIGHT-Attribute
+	atk: 2300
+	def: 2100
+	atkbonus: +690
+	defbonus: +630
+	cardid: <i-setitalics>VOL1-03</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:48:31
+	time_modified: 2024-11-24 01:27:20
+	name: Silver Fang
+	image: image14.png
+	type: Monster|Beast
+	attribute: earth
+	grade: level level 3
+	textbox: Your opponent cannot target or destroy face-up "Moon" Continuous Spell cards you control. If you control a "Moon" Continuous Spell card you take no damage from battlews involving this card.
+	effects: Your opponent cannot target or destroy face-up "Moon" Continuous Spell cards you control. If you control a "Moon" Continuous Spell card you take no damage from battlews involving this card.
+	atk: 1200
+	def: 800
+	atkbonus: +360
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-05</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:48:33
+	time_modified: 2024-12-01 15:14:36
+	card_type: spell monster
+	name: Curtain of the Dark-Magic Tribe
+	image: image10.png
+	type: Spell Monster|Spellcaster
+	attribute: dark
+	grade: level level 2
+	textbox:
+		[Play: As a monster, or an Equip Spell Card] *A You can equip this card to a Spellcaster Monster. <soft-line>
+		EQUIP: +300 ATK, +250 DEF, +</soft-line>DARK-Attribute
+	effects:
+		[Play: As a monster, or an Equip Spell Card] *A You can equip this card to a Spellcaster Monster. <soft-line>
+		EQUIP: +300 ATK, +250 DEF, +</soft-line>DARK-Attribute
+	atk: 600
+	def: 500
+	atkbonus: +180
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-06</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:09
+	time_modified: 2024-12-09 14:54:40
+	name: Friendsaurus
+	image: image28.png
+	type: Monster|Dinosaur
+	attribute: earth
+	grade: level level 2
+	textbox: Once per duel, target a Dinosaur or Reptile monster you control. It is destroyed, and this card increases its original ATK and DEF by that monster's original ATK and DEF.
+	effects: Once per duel, target a Dinosaur or Reptile monster you control. It is destroyed, and this card increases its original ATK and DEF by that monster's original ATK and DEF.
+	atk: 500
+	def: 400
+	atkbonus: +150
+	defbonus: +120
+	cardid: <i-setitalics>VOL1-07</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:25
+	time_modified: 2024-11-24 01:29:11
+	name: Dark Gray
+	image: image17.png
+	type: Monster|Beast
+	attribute: earth
+	grade: level level 3
+	textbox: This monster gains the Elusive type when attacked on "Forest" Terrain.
+	effects: This monster gains the Elusive type when attacked on "Forest" Terrain.
+	atk: 800
+	def: 900
+	atkbonus: +240
+	defbonus: +270
+	cardid: <i-setitalics>VOL1-08</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:35
+	time_modified: 2024-11-24 01:27:04
+	name: Sleep Child
+	image: image12.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 3
+	textbox: If this monster is face-up on the field, Once per duel, you may add the Slumbering type to all other monsters on the field.
+	effects: If this monster is face-up on the field, Once per duel, you may add the Slumbering type to all other monsters on the field.
+	atk: 800
+	def: 700
+	atkbonus: +240
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-09</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:49
+	time_modified: 2024-12-01 13:26:16
+	card_type: spell
+	name: Arms of the Dead
+	image: image6.png
+	type: Spell|Equip
+	attribute: dark
+	grade: glyph equip
+	textbox:
+		Equip only to a Normal monster with a level equal to or lower to the amount of monsters you had in your graveyard when you played this card.
+		EQUIP: The equipped monster cannot move or attack and is Battle Locked into ATK or DEF (your choice).
+	effects:
+		Equip only to a Normal monster with a level equal to or lower to the amount of monsters you had in your graveyard when you played this card.
+		EQUIP: The equipped monster cannot move or attack and is Battle Locked into ATK or DEF (your choice).
+	atk: 600
+	def: 600
+	atkbonus: +180
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-10</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:52:03
+	time_modified: 2024-12-09 15:11:13
+	name: Fire Devil
+	image: image31.png
+	type: Monster|Undead|Fireblast
+	attribute: dark
+	grade: level level 2
+	textbox: Once per turn, you can target a monster on the field. That monster gains the Poisoned-Type.
+	effects: Once per turn, you can target a monster on the field. That monster gains the Poisoned-Type.
+	atk: 700
+	def: 500
+	atkbonus: +210
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-11</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:52:24
+	time_modified: 2024-11-24 01:34:13
+	name: Firegrass
+	image: image21.png
+	type: Monster|Plant|Fireblast
+	attribute: earth
+	grade: level level 2
+	textbox: You can play this monster on "Volcano" Terrain.
+	effects: You can play this monster on "Volcano" Terrain.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-12</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:53:45
+	time_modified: 2024-12-09 15:09:37
+	name: Copix
+	image: image9.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 2
+	textbox:
+		When this card is targeted for an attack, you can target a non-combatant monster on the field. Negate the attack if:
+		*O This card is in Attack Position and the attacking monster has equal or less ATK than the targeted monster's ATK.
+		*O This card is in Defense Position and the attacking monster has equal or less ATK than the targeted monster's DEF.
+	effects:
+		When this card is targeted for an attack, you can target a non-combatant monster on the field. Negate the attack if:
+		*O This card is in Attack Position and the attacking monster has equal or less ATK than the targeted monster's ATK.
+		*O This card is in Defense Position and the attacking monster has equal or less ATK than the targeted monster's DEF.
+	atk: 600
+	def: 500
+	atkbonus: +180
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-13</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:53:49
+	time_modified: 2024-11-26 19:11:29
+	name: LaLa Li-oon
+	image: image25.png
+	type: Monster|Elemental|Thunderblast
+	attribute: wind
+	grade: level level 2
+	textbox:
+		Target a monster to equip this card to it. <soft-line>
+		</soft-line>EQUIP: +Dampened +Poisoned
+	effects:
+		Target a monster to equip this card to it. <soft-line>
+		</soft-line>EQUIP: +Dampened +Poisoned
+	atk: 600
+	def: 600
+	atkbonus: +180
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-14</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:00
+	time_modified: 2024-11-24 17:58:15
+	name: Petit Dragon
+	image: image23.png
+	type: Monster|Dragon|Flying
+	attribute: wind
+	grade: level level 2
+	textbox: Grants a Field Power Bonus to all other Dragon Monsters on the Field.
+	effects: Grants a Field Power Bonus to all other Dragon Monsters on the Field.
+	atk: 600
+	def: 700
+	atkbonus: +180
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-15</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:11
+	time_modified: 2024-11-24 17:59:42
+	name: Daemon Beaver
+	image: image36.png
+	type: Monster|Beast|Flying
+	attribute: earth
+	grade: level level 2
+	textbox: This Monster does not Trigger Trap Cards.
+	effects: This Monster does not Trigger Trap Cards.
+	atk: 400
+	def: 600
+	atkbonus: +120
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-16</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:39
+	time_modified: 2024-11-24 01:34:45
+	name: Petit Angel
+	image: image22.png
+	type: Monster|Angel|Flying
+	attribute: light
+	grade: level level 3
+	textbox: Once per Duel, during your Main Phase, you can Tribute this card, add 1 LIGHT monster from your GY to your Deck.
+	effects: Once per Duel, during your Main Phase, you can Tribute this card, add 1 LIGHT monster from your GY to your Deck.
+	atk: 600
+	def: 900
+	atkbonus: +180
+	defbonus: +270
+	cardid: <i-setitalics>VOL1-17</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:51
+	time_modified: 2024-12-01 16:33:21
+	name: Dark Killer
+	image: image34.png
+	type: Monster|Insect|Flying
+	attribute: earth
+	grade: level level 2
+	textbox: You can tribute this monster to give a monster the Poisoned type.
+	effects: You can tribute this monster to give a monster the Poisoned type.
+	atk: 700
+	def: 700
+	atkbonus: +210
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-18</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:55:03
+	time_modified: 2024-11-24 18:03:14
+	name: Thunder Kid
+	image: image41.png
+	type: Monster|Beast|Thunderblast
+	attribute: wind
+	grade: level level 2
+	textbox: During the End Phase, place 1 counter on this card, and an additional one if on a WIND Terrain, up to 12. You can remove all counters placed by this effect; this card gains 100 ATK times the number of counters removed, until the end of your opponent's next turn.
+	effects: During the End Phase, place 1 counter on this card, and an additional one if on a WIND Terrain, up to 12. You can remove all counters placed by this effect; this card gains 100 ATK times the number of counters removed, until the end of your opponent's next turn.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-19</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:55:56
+	time_modified: 2024-11-24 01:16:58
+	name: Babylon
+	image: image4.png
+	type: Monster|Demon
+	attribute: earth
+	grade: level level 2
+	textbox: On each Standby Phase you can look at the top card of your opponent's Deck.
+	effects: On each Standby Phase you can look at the top card of your opponent's Deck.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-20</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:07
+	time_modified: 2024-11-24 01:27:33
+	name: Shien's Body Double
+	image: image15.png
+	type: Monster|Warrior|Support
+	attribute: earth
+	grade: level level 2
+	textbox:
+		If your opponent declares an attack your can flip this card face-up (this is a Quick Effect).
+		FLIP: if a Warrior monster you control is targeted for an attack, you can redirect the attack to this card (this is a Quick Effect).
+	effects:
+		If your opponent declares an attack your can flip this card face-up (this is a Quick Effect).
+		FLIP: if a Warrior monster you control is targeted for an attack, you can redirect the attack to this card (this is a Quick Effect).
+	atk: 800
+	def: 400
+	atkbonus: +240
+	defbonus: +120
+	cardid: <i-setitalics>VOL1-21</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:22
+	time_modified: 2024-11-24 18:04:25
+	name: Starfish Anemone
+	image: image40.png
+	type: Monster|Aquatic
+	attribute: water
+	grade: level level 2
+	textbox: This card gains +500 ATK when battling EARTH monsters and +800 ATK when battling Machines.
+	effects: This card gains +500 ATK when battling EARTH monsters and +800 ATK when battling Machines.
+	atk: 600
+	def: 700
+	atkbonus: +180
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-22</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:37
+	time_modified: 2024-11-26 19:19:49
+	name: Hourglass of Life
+	image: image26.png
+	type: Monster|Angel
+	attribute: light
+	grade: level level 2
+	textbox: Once per duel, you may pay 1000 LP: All monsters on your side of the field gain a Field Power Bonus.
+	effects: Once per duel, you may pay 1000 LP: All monsters on your side of the field gain a Field Power Bonus.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-23</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:53
+	time_modified: 2024-11-24 02:04:45
+	card_type: spell monster
+	name: Haniwa
+	image: image27.png
+	type: Spell Monster|Elemental|Protector
+	attribute: earth
+	grade: level level 2
+	textbox:
+		When you special summon a Warrior Support Monster from your graveyard, you can equip this card to it from your hand, field or graveyard.
+		EQUIP: +500 ATK, +500 DEF. If the equipped monster would be destroyed, you can destroy this card instead.
+	effects:
+		When you special summon a Warrior Support Monster from your graveyard, you can equip this card to it from your hand, field or graveyard.
+		EQUIP: +500 ATK, +500 DEF. If the equipped monster would be destroyed, you can destroy this card instead.
+	atk: 500
+	def: 500
+	atkbonus: +150
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-24</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:01
+	time_modified: 2024-11-24 02:03:34
+	name: Death Foot
+	image: image33.png
+	type: Monster|Demon
+	attribute: dark
+	grade: level level 3
+	textbox: FLIP: All other monsters on the field are Battle Locked into Face Up Attack Position until the End Phase.
+	effects: FLIP: All other monsters on the field are Battle Locked into Face Up Attack Position until the End Phase.
+	atk: 700
+	def: 800
+	atkbonus: +210
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-25</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:17
+	time_modified: 2024-11-24 01:44:16
+	name: Candle of Fate
+	image: image8.png
+	type: Monster|Demon|Fireblast
+	attribute: dark
+	grade: level level 2
+	textbox: During your end phase, decrease the DEF of the opponent's monsters by 100. If a monster would have a DEF of 0 after this effect triggers, it is destroyed, negating the effect of Regeneration.
+	effects: During your end phase, decrease the DEF of the opponent's monsters by 100. If a monster would have a DEF of 0 after this effect triggers, it is destroyed, negating the effect of Regeneration.
+	atk: 600
+	def: 600
+	atkbonus: +180
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-26</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:28
+	time_modified: 2024-11-24 18:10:03
+	card_type: normal monster
+	name: Daemon's Mirror
+	image: image35.png
+	type: Monster|Demon|Illusion
+	attribute: dark
+	grade: level level 2
+	textbox:
+		You can flip this monster when your opponent declares an attack.
+		FLIP: You can add the Hypnotized Type to an opponent's monster. When this monster is destroyed, remove the Hypnotized Type from any affected Monsters.
+	effects:
+		You can flip this monster when your opponent declares an attack.
+		FLIP: You can add the Hypnotized Type to an opponent's monster. When this monster is destroyed, remove the Hypnotized Type from any affected Monsters.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-27</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:40
+	time_modified: 2024-11-24 01:27:40
+	name: Sea King of Anger
+	image: image16.png
+	type: Monster|Aquatic|Warrior
+	attribute: water
+	grade: level level 3
+	textbox: Once per duel, if this card declares an attack you can replace one EARTH Terrain with a "Sea" Terrain.
+	effects: Once per duel, if this card declares an attack you can replace one EARTH Terrain with a "Sea" Terrain.
+	atk: 800
+	def: 700
+	atkbonus: +240
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-28</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:06
+	time_modified: 2024-11-24 18:07:43
+	name: Follower in the Dark
+	image: image29.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 2
+	textbox: Once per duel, you can Tribute this card during your Main Phase to replace one of your Terrains with a "Yami" or "Night" Terrain.
+	effects: Once per duel, you can Tribute this card during your Main Phase to replace one of your Terrains with a "Yami" or "Night" Terrain.
+	atk: 700
+	def: 500
+	atkbonus: +210
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-29</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:16
+	time_modified: 2024-11-24 02:11:38
+	name: Drake
+	image: image32.png
+	type: Monster|Avian|Flying
+	attribute: wind
+	grade: level level 3
+	textbox: You can decrease the DEF of a monster on the field by 1500, until the end of the turn. You can only use the effect of "Drake" once per turn.
+	effects: You can decrease the DEF of a monster on the field by 1500, until the end of the turn. You can only use the effect of "Drake" once per turn.
+	atk: 800
+	def: 800
+	atkbonus: +240
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-30</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:32
+	time_modified: 2024-11-24 18:17:29
+	card_type: spell
+	name: Legendary Sword
+	image: image24.png
+	type: Spell|Equip
+	attribute: light
+	grade: glyph equip
+	textbox:
+		Equip only to a non-DARK Normal Warrior Monster.<soft-line>
+		</soft-line>EQUIP: +300 ATK, +300 DEF. <soft-line>If this equipped card is sent to the graveyard you can activate this effect: gain +300 LP.</soft-line>
+	effects:
+		Equip only to a non-DARK Normal Warrior Monster.<soft-line>
+		</soft-line>EQUIP: +300 ATK, +300 DEF. <soft-line>If this equipped card is sent to the graveyard you can activate this effect: gain +300 LP.</soft-line>
+	cardid: <i-setitalics>VOL1-31</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:42
+	time_modified: 2024-12-01 15:22:29
+	card_type: spell
+	name: Beast Fangs
+	image: image3.png
+	type: Spell|Equip
+	attribute: earth
+	grade: glyph equip
+	textbox:
+		Equip only to a non-Warrior Normal Beast monster.
+		EQUIP: +300 ATK, +300 DEF. If the equipped monster is destroyed by battle, the monster that destroyed it loses 300 ATK and DEF.
+	effects:
+		Equip only to a non-Warrior Normal Beast monster.
+		EQUIP: +300 ATK, +300 DEF. If the equipped monster is destroyed by battle, the monster that destroyed it loses 300 ATK and DEF.
+	cardid: <i-setitalics>VOL1-32</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:56
+	time_modified: 2024-11-24 02:10:05
+	card_type: spell
+	name: Amethyst
+	image: image7.png
+	type: Spell|Equip
+	attribute: dark
+	grade: glyph equip
+	textbox:
+		Equip only to an Undead or Zombie monster.
+		EQUIP: +300 ATK, +Regeneraton.
+	effects:
+		Equip only to an Undead or Zombie monster.
+		EQUIP: +300 ATK, +Regeneraton.
+	cardid: <i-setitalics>VOL1-33</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:02
+	time_modified: 2024-11-24 01:16:41
+	card_type: spell
+	name: Book of Secret Arts
+	image: image2.png
+	type: Spell|Equip
+	attribute: dark
+	grade: glyph equip
+	textbox:
+		Equip only to a non-Demon Normal Spellcaster monster.
+		EQUIP: +300 ATK, +300 DEF. If this equipped card is sent to the graveyard you can activate this effect: gain +300 LP.
+	effects:
+		Equip only to a non-Demon Normal Spellcaster monster.
+		EQUIP: +300 ATK, +300 DEF. If this equipped card is sent to the graveyard you can activate this effect: gain +300 LP.
+	cardid: <i-setitalics>VOL1-34</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:09
+	time_modified: 2024-11-24 18:11:56
+	card_type: spell
+	name: Power of Poseidon
+	image: image37.png
+	type: Spell|Equip
+	attribute: water
+	grade: glyph equip
+	textbox: Equip only to an Aquatic monster. This card can be equiped to Aquatic monsters you control even if they are Face Down. EQUIP: +300 ATK and DEF.
+	effects: Equip only to an Aquatic monster. This card can be equiped to Aquatic monsters you control even if they are Face Down. EQUIP: +300 ATK and DEF.
+	cardid: <i-setitalics>VOL1-35</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:20
+	time_modified: 2024-11-24 01:15:35
+	card_type: spell
+	name: Black Hole
+	image: image1.png
+	type: Spell
+	attribute: dark
+	grade: glyph normal
+	textbox: Destroy all cards on the field. You cannot play any further cards this turn.
+	effects: Destroy all cards on the field. You cannot play any further cards this turn.
+	cardid: <i-setitalics>VOL1-36</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:27
+	time_modified: 2024-12-09 14:16:09
+	card_type: spell
+	name: Red Potion
+	image: image38.png
+	type: Spell
+	attribute: water
+	textbox:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 500 points.<soft-line>
+		*O Target a monster you control, for the rest of the turn its ATK and DEF are increased by 500 points, but it can't destroy other monsters by battle or deal battle damage.</soft-line></soft-line>
+	effects:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 500 points.<soft-line>
+		*O Target a monster you control, for the rest of the turn its ATK and DEF are increased by 500 points, but it can't destroy other monsters by battle or deal battle damage.</soft-line></soft-line>
+	cardid: <i-setitalics>VOL1-37</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:39
+	time_modified: 2024-12-01 15:21:58
+	card_type: spell
+	name: Sparks
+	image: image39.png
+	type: Spell
+	attribute: fire
+	textbox:
+		Choose one:<soft-line>
+		*O </soft-line>Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Fireblast Monster.
+		*O Increase the ATK of Fireblast monsters you control by 200 points.
+	effects:
+		Choose one:<soft-line>
+		*O </soft-line>Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Fireblast Monster.
+		*O Increase the ATK of Fireblast monsters you control by 200 points.
+	cardid: <i-setitalics>VOL1-38</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:48
+	time_modified: 2024-11-24 01:48:41
+	card_type: spell
+	name: Fissure
+	image: image30.png
+	type: Spell
+	attribute: earth
+	textbox: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied). If the terrain that Monster is on is WATER: Replace the terrain with "Wasteland".
+	effects: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied). If the terrain that Monster is on is WATER: Replace the terrain with "Wasteland".
+	cardid: <i-setitalics>VOL1-39</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:59
+	time_modified: 2024-11-24 18:16:04
+	card_type: trap
+	name: Pitfall
+	image: image13.png
+	type: Trap
+	attribute: earth
+	textbox: [Trigger: Your opponent summons a Normal monster with 1000 or more ATK] *A Target that monster: if it is not a Flying monster, destroy that target. If the terrain that Monster is on is WATER: Replace the terrain with Wasteland.
+	effects: [Trigger: Your opponent summons a Normal monster with 1000 or more ATK] *A Target that monster: if it is not a Flying monster, destroy that target. If the terrain that Monster is on is WATER: Replace the terrain with Wasteland.
+	cardid: <i-setitalics>VOL1-40</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 22:04:03
+	time_modified: 2024-11-24 01:29:48
+	name: Mammoth Graveyard
+	image: image20.png
+	type: Monster|Undead|Dinosaur
+	attribute: earth
+	grade: level level 3
+	textbox: ATTACH: A non-Undead LIGHT monster with 1200 ATK or more that has this card attached loses 1200 ATK at the End Phase of each of your turns.
+	effects: ATTACH: A non-Undead LIGHT monster with 1200 ATK or more that has this card attached loses 1200 ATK at the End Phase of each of your turns.
+	atk: 1200
+	def: 800
+	atkbonus: +360
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-04</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 14:44:26
+	card_type: alter monster
+	name: Torunka, The Black-Clothed Great Sage
+	image: image42.png
+	type: Alter Monster|Timeshifted|Spellcaster
+	attribute: dark
+	grade: level level 9
+	textbox:
+		SUMMON: "Dark Magician"<soft-line>
+		No cards can be equipped to this monster. While this card is face-up on the field, you may activate one Spell Card from your hand during your opponent's turn as a Quick Effect. During your Draw Phase, instead of conducting your normal draw, you can add 1 Spell Card from your Deck to your Hand.
+		</soft-line>
+	effects:
+		SUMMON: "Dark Magician"<soft-line>
+		No cards can be equipped to this monster. While this card is face-up on the field, you may activate one Spell Card from your hand during your opponent's turn as a Quick Effect. During your Draw Phase, instead of conducting your normal draw, you can add 1 Spell Card from your Deck to your Hand.
+		</soft-line>
+	atk: 100
+	def: 3200
+	atkbonus: +30
+	defbonus: +960
+	cardid: <i-setitalics>VOL1-EX-01</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 14:39:35
+	card_type: alter monster
+	name: Awakened Gaia the Fierce Knight
+	image: image5.png
+	type: Alter Monster|Ascended|Warrior
+	attribute: light
+	grade: level level 7
+	textbox:
+		SUMMON: "Gaia The Fierce Knight"<soft-line>
+		While face-up on the field, this card is also considered EARTH-Attribute. If your opponent controls more monsters than you do, this monster gains 200 ATK.</soft-line>
+	effects:
+		SUMMON: "Gaia The Fierce Knight"<soft-line>
+		While face-up on the field, this card is also considered EARTH-Attribute. If your opponent controls more monsters than you do, this monster gains 200 ATK.</soft-line>
+	atk: 2700
+	def: 1900
+	atkbonus: +810
+	defbonus: +570
+	cardid: <i-setitalics>VOL1-EX-02</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:09:59
+	card_type: rule
+	name: Evasion
+	image: image44.png
+	type: Rule
+	attribute: wind
+	textbox:
+		KEYWORDs: Evasive or Toon.
+		Evasive and Toon monsters targetted for an attack can move to another terrain during the Battle Phase only, and if they do, the attack is negated unless the attacking monster was also Evasive or Toon (the monster that moved returns to the original position when the Battle Phase is over). Evasive and Toon monsters cannot be destroyed by battle with a monster that has the same ATK.
+	effects:
+		KEYWORDs: Evasive or Toon.
+		Evasive and Toon monsters targetted for an attack can move to another terrain during the Battle Phase only, and if they do, the attack is negated unless the attacking monster was also Evasive or Toon (the monster that moved returns to the original position when the Battle Phase is over). Evasive and Toon monsters cannot be destroyed by battle with a monster that has the same ATK.
+	cardid: <i-setitalics>VOL1-EX-03</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:07:33
+	card_type: rule
+	name: Electric Current
+	image: image46.png
+	type: Rule
+	attribute: light
+	textbox:
+		KEYWORD: Dampened.
+		Thunderblast monsters attacking Dampened monsters get +500 ATK until the End Phase. If a WATER Spell was played in either this round or the previous round, the ATK increase is +1000 instead.
+	effects:
+		KEYWORD: Dampened.
+		Thunderblast monsters attacking Dampened monsters get +500 ATK until the End Phase. If a WATER Spell was played in either this round or the previous round, the ATK increase is +1000 instead.
+	cardid: <i-setitalics>VOL1-EX-05</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:07:29
+	card_type: rule
+	name: Corrosive Poison
+	image: image47.png
+	type: Rule
+	attribute: water
+	textbox:
+		KEYWORD: Poisoned.<soft-line>
+		Poisoned monsters lose 100 ATK times their Level on each End Phase, and they cannot receive a Field Power Bonus.</soft-line>
+	effects:
+		KEYWORD: Poisoned.<soft-line>
+		Poisoned monsters lose 100 ATK times their Level on each End Phase, and they cannot receive a Field Power Bonus.</soft-line>
+	cardid: <i-setitalics>VOL1-EX-06</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:14:14
+	card_type: rule
+	name: Flying Advantage
+	image: image43.png
+	type: Rule
+	attribute: wind
+	textbox:
+		KEYWORD: Flying
+		Non-Flying monsters in ATK Position battling Flying monsters lose their Field Power Bonus.
+	effects:
+		KEYWORD: Flying
+		Non-Flying monsters in ATK Position battling Flying monsters lose their Field Power Bonus.
+	cardid: <i-setitalics>VOL1-EX-07</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:18:38
+	card_type: rule
+	name: Watchful Protector
+	image: image48.png
+	type: Rule
+	attribute: light
+	textbox:
+		KEYWORD: Protector.<soft-line>
+		A Protector monster can be selected (by their controller) as the new target for a non-STRIKE attack or for an effect that changes control if that original target is a non-Protector monster they control.</soft-line>
+	effects:
+		KEYWORD: Protector.<soft-line>
+		A Protector monster can be selected (by their controller) as the new target for a non-STRIKE attack or for an effect that changes control if that original target is a non-Protector monster they control.</soft-line>
+	cardid: <i-setitalics>VOL1-EX-08</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:22:15
+	card_type: rule
+	name: Power of Hypnosis
+	image: image49.png
+	type: Rule
+	attribute: dark
+	textbox:
+		KEYWORD: Hypnotized.
+		Hypnotized monsters controlled by their owners cannot attack.
+	effects:
+		KEYWORD: Hypnotized.
+		Hypnotized monsters controlled by their owners cannot attack.
+	cardid: <i-setitalics>VOL1-EX-09</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:23:07
+	card_type: rule
+	name: Living Graveyard
+	image: image50.png
+	type: Rule
+	attribute: dark
+	textbox:
+		KEYWORD: Regeneration
+		Players can Special Summon from their graveyard (at the end of each Battle Phase) as many Regeneration monsters as they can that were destroyed by battle that turn while having an ATK higher than 0.
+	effects:
+		KEYWORD: Regeneration
+		Players can Special Summon from their graveyard (at the end of each Battle Phase) as many Regeneration monsters as they can that were destroyed by battle that turn while having an ATK higher than 0.
+	cardid: <i-setitalics>VOL1-EX-10</i-setitalics>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 14:59:56
+	card_type: rule
+	name: Deep Slumber
+	image: image45.png
+	type: Rule
+	attribute: dark
+	textbox:
+		KEYWORD: Slumbering.
+		A monster with the Slumbering trait can’t Attack or activate its Effects, and is Battle Locked.
+	effects:
+		KEYWORD: Slumbering.
+		A monster with the Slumbering trait can’t Attack or activate its Effects, and is Battle Locked.
+	cardid: <i-setitalics>VOL1-EX-04</i-setitalics>
+pack_type:
+	name: 5 Card Pack
+	enabled: true
+	selectable: true
+	summary: false
+	select: all
+	item:
+		name: card
+		amount: 5
+		weight: 1
+version_control:
+	type: none
+apprentice_code: 
