@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:31:10
+	time_modified: 2024-12-05 17:45:49
+	name: Dark Plant
+	image: image6.png
+	type: Monster|Plant
+	attribute: dark
+	grade: level level 1
+	textbox: When this monster is destroyed in battle, replace all terrain within a range of 1 with "Crush Virus" Terrain.
+	effects: When this monster is destroyed in battle, replace all terrain within a range of 1 with "Crush Virus" Terrain.
+	atk: 300
+	def: 400
+	atkbonus: +90
+	defbonus: +120
+	cardid: <i-setitalics>BSTR1-09</i-setitalics>

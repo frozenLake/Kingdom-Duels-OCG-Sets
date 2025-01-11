@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:28:36
+	time_modified: 2024-12-05 17:44:43
+	name: Grappling Warrior Ultimator
+	image: image4.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 3
+	textbox: Once per Duel, during your Battle Phase, If this card has no equipped spell cards: it can attack every ATK Position Normal monster your opponent controls.
+	effects: Once per Duel, during your Battle Phase, If this card has no equipped spell cards: it can attack every ATK Position Normal monster your opponent controls.
+	atk: 700
+	def: 1000
+	atkbonus: +210
+	defbonus: +300
+	cardid: <i-setitalics>BSTR1-04</i-setitalics>

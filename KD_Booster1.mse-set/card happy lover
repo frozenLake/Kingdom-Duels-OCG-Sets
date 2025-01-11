@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 12:09:52
+	time_modified: 2024-12-05 17:51:18
+	name: Happy Lover
+	image: image16.png
+	type: Monster|Angel|Flying
+	attribute: light
+	grade: level level 2
+	textbox: This card cannot be destroyed in battle by Elementals. Once per turn (this is a Slow Effect) you can target one other monster you control and remove one Type from it that isn't printed on the card.
+	effects: This card cannot be destroyed in battle by Elementals. Once per turn (this is a Slow Effect) you can target one other monster you control and remove one Type from it that isn't printed on the card.
+	atk: 800
+	def: 500
+	atkbonus: +240
+	defbonus: +150
+	cardid: <i-setitalics>BSTR1-25</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:31:39
+	time_modified: 2024-12-05 17:44:01
+	name: Ancient Jar
+	image: image3.png
+	type: Monster|Elemental
+	attribute: earth
+	grade: level level 1
+	textbox: FLIP: Add the hypnotized trait to all of your opponent's monsters Level 6 or lower.
+	effects: FLIP: Add the hypnotized trait to all of your opponent's monsters Level 6 or lower.
+	atk: 400
+	def: 200
+	atkbonus: +120
+	defbonus: +60
+	cardid: <i-setitalics>BSTR1-16</i-setitalics>

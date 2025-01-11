@@ -1,0 +1,16 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:31:23
+	time_modified: 2024-12-05 17:46:42
+	name: Djinn the Watcher of the Wind
+	image: image8.png
+	type: Monster|Elemental
+	attribute: wind
+	grade: level level 3
+	atk: 700
+	def: 900
+	atkbonus: +210
+	defbonus: +270
+	cardid: <i-setitalics>BSTR1-12</i-setitalics>

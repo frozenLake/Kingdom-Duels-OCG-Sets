@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 12:10:31
+	time_modified: 2024-12-03 19:56:59
+	card_type: spell
+	name: Thunder
+	image: image1.png
+	type: Spell
+	attribute: light
+	textbox:
+		Choose one:
+		*O Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Thunderblast Monster.
+		*O Increase the ATK of Thunderblast monsters you control by 300 points.
+	effects:
+		Choose one:
+		*O Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Thunderblast Monster.
+		*O Increase the ATK of Thunderblast monsters you control by 300 points.
+	cardid: <i-setitalics>BSTR1-35</i-setitalics>

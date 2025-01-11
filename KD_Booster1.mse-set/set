@@ -1,0 +1,55 @@
+﻿mse_version: 2.0.2
+game: kingdomduels
+game_version: 2024-10-29
+stylesheet: standard
+stylesheet_version: 2024-10-29
+set_info:
+	title: Booster 1
+include_file: card gargoyle
+include_file: card eleckid
+include_file: card flesh-eating plant
+include_file: card grappling warrior ultimator
+include_file: card wings of wicked flame
+include_file: card beckoning graveyard
+include_file: card nightmare scorpion
+include_file: card yamatano dragon scroll
+include_file: card dark plant
+include_file: card weather control
+include_file: card holy chain
+include_file: card djinn the watcher of the wind
+include_file: card the shadow who controls the dark
+include_file: card the melting red shadow
+include_file: card dig beak
+include_file: card ancient jar
+include_file: card hurricail
+include_file: card fire eye
+include_file: card saturner
+include_file: card holy power
+include_file: card hell gate deeg
+include_file: card phalanx
+include_file: card drone
+include_file: card zombie lump
+include_file: card happy lover
+include_file: card ghost
+include_file: card gross
+include_file: card speak
+include_file: card midnight devil
+include_file: card vishwar randi
+include_file: card water element
+include_file: card immature demon
+include_file: card wicked dragon with the demon head
+include_file: card blue potion
+include_file: card thunder
+pack_type:
+	name: 3 Card Pack
+	enabled: true
+	selectable: true
+	summary: false
+	select: all
+	item:
+		name: card
+		amount: 3
+		weight: 1
+version_control:
+	type: none
+apprentice_code: 

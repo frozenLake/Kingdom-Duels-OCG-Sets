@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2024-12-05 17:50:04
+	name: Gargoyle
+	image: image14.png
+	type: Monster|Demon
+	attribute: dark
+	grade: level level 3
+	textbox: This monster cannot be petrified.
+	effects: This monster cannot be petrified.
+	atk: 1000
+	def: 500
+	atkbonus: +300
+	defbonus: +150
+	cardid: <i-setitalics>BSTR1-01</i-setitalics>

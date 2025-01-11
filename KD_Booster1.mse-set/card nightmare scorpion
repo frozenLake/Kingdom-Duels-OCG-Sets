@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:30:59
+	time_modified: 2024-12-05 17:54:49
+	name: Nightmare Scorpion
+	image: image22.png
+	type: Monster|Insect
+	attribute: earth
+	grade: level level 3
+	textbox: When this monster attacks a monster with the Slumbering-type, that monster gains the Poisoned-type before damage calculation.
+	effects: When this monster attacks a monster with the Slumbering-type, that monster gains the Poisoned-type before damage calculation.
+	atk: 900
+	def: 800
+	atkbonus: +270
+	defbonus: +240
+	cardid: <i-setitalics>BSTR1-07</i-setitalics>
