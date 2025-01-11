@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:37
+	time_modified: 2024-11-26 19:19:49
+	name: Hourglass of Life
+	image: image26.png
+	type: Monster|Angel
+	attribute: light
+	grade: level level 2
+	textbox: Once per duel, you may pay 1000 LP: All monsters on your side of the field gain a Field Power Bonus.
+	effects: Once per duel, you may pay 1000 LP: All monsters on your side of the field gain a Field Power Bonus.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-23</i-setitalics>

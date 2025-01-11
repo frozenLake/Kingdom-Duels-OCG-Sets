@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:14:14
+	card_type: rule
+	name: Flying Advantage
+	image: image43.png
+	type: Rule
+	attribute: wind
+	textbox:
+		KEYWORD: Flying
+		Non-Flying monsters in ATK Position battling Flying monsters lose their Field Power Bonus.
+	effects:
+		KEYWORD: Flying
+		Non-Flying monsters in ATK Position battling Flying monsters lose their Field Power Bonus.
+	cardid: <i-setitalics>VOL1-EX-07</i-setitalics>

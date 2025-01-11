@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:07:33
+	card_type: rule
+	name: Electric Current
+	image: image46.png
+	type: Rule
+	attribute: light
+	textbox:
+		KEYWORD: Dampened.
+		Thunderblast monsters attacking Dampened monsters get +500 ATK until the End Phase. If a WATER Spell was played in either this round or the previous round, the ATK increase is +1000 instead.
+	effects:
+		KEYWORD: Dampened.
+		Thunderblast monsters attacking Dampened monsters get +500 ATK until the End Phase. If a WATER Spell was played in either this round or the previous round, the ATK increase is +1000 instead.
+	cardid: <i-setitalics>VOL1-EX-05</i-setitalics>

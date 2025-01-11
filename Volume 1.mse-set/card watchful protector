@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:18:38
+	card_type: rule
+	name: Watchful Protector
+	image: image48.png
+	type: Rule
+	attribute: light
+	textbox:
+		KEYWORD: Protector.<soft-line>
+		A Protector monster can be selected (by their controller) as the new target for a non-STRIKE attack or for an effect that changes control if that original target is a non-Protector monster they control.</soft-line>
+	effects:
+		KEYWORD: Protector.<soft-line>
+		A Protector monster can be selected (by their controller) as the new target for a non-STRIKE attack or for an effect that changes control if that original target is a non-Protector monster they control.</soft-line>
+	cardid: <i-setitalics>VOL1-EX-08</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:09:59
+	card_type: rule
+	name: Evasion
+	image: image44.png
+	type: Rule
+	attribute: wind
+	textbox:
+		KEYWORDs: Evasive or Toon.
+		Evasive and Toon monsters targetted for an attack can move to another terrain during the Battle Phase only, and if they do, the attack is negated unless the attacking monster was also Evasive or Toon (the monster that moved returns to the original position when the Battle Phase is over). Evasive and Toon monsters cannot be destroyed by battle with a monster that has the same ATK.
+	effects:
+		KEYWORDs: Evasive or Toon.
+		Evasive and Toon monsters targetted for an attack can move to another terrain during the Battle Phase only, and if they do, the attack is negated unless the attacking monster was also Evasive or Toon (the monster that moved returns to the original position when the Battle Phase is over). Evasive and Toon monsters cannot be destroyed by battle with a monster that has the same ATK.
+	cardid: <i-setitalics>VOL1-EX-03</i-setitalics>

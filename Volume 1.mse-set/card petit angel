@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:39
+	time_modified: 2024-11-24 01:34:45
+	name: Petit Angel
+	image: image22.png
+	type: Monster|Angel|Flying
+	attribute: light
+	grade: level level 3
+	textbox: Once per Duel, during your Main Phase, you can Tribute this card, add 1 LIGHT monster from your GY to your Deck.
+	effects: Once per Duel, during your Main Phase, you can Tribute this card, add 1 LIGHT monster from your GY to your Deck.
+	atk: 600
+	def: 900
+	atkbonus: +180
+	defbonus: +270
+	cardid: <i-setitalics>VOL1-17</i-setitalics>

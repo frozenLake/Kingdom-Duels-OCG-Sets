@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:47:33
+	time_modified: 2024-11-24 01:29:33
+	name: Dark Magician
+	image: image18.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 7
+	textbox: This card's Summon cannot be negated.
+	effects: This card's Summon cannot be negated.
+	atk: 2500
+	def: 2100
+	atkbonus: +750
+	defbonus: +630
+	cardid: <i-setitalics>VOL1-02</i-setitalics>

@@ -1,0 +1,14 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:48
+	time_modified: 2024-11-24 01:48:41
+	card_type: spell
+	name: Fissure
+	image: image30.png
+	type: Spell
+	attribute: earth
+	textbox: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied). If the terrain that Monster is on is WATER: Replace the terrain with "Wasteland".
+	effects: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied). If the terrain that Monster is on is WATER: Replace the terrain with "Wasteland".
+	cardid: <i-setitalics>VOL1-39</i-setitalics>

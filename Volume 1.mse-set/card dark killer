@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:51
+	time_modified: 2024-12-01 16:33:21
+	name: Dark Killer
+	image: image34.png
+	type: Monster|Insect|Flying
+	attribute: earth
+	grade: level level 2
+	textbox: You can tribute this monster to give a monster the Poisoned type.
+	effects: You can tribute this monster to give a monster the Poisoned type.
+	atk: 700
+	def: 700
+	atkbonus: +210
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-18</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 22:04:03
+	time_modified: 2024-11-24 01:29:48
+	name: Mammoth Graveyard
+	image: image20.png
+	type: Monster|Undead|Dinosaur
+	attribute: earth
+	grade: level level 3
+	textbox: ATTACH: A non-Undead LIGHT monster with 1200 ATK or more that has this card attached loses 1200 ATK at the End Phase of each of your turns.
+	effects: ATTACH: A non-Undead LIGHT monster with 1200 ATK or more that has this card attached loses 1200 ATK at the End Phase of each of your turns.
+	atk: 1200
+	def: 800
+	atkbonus: +360
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-04</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:40
+	time_modified: 2024-11-24 01:27:40
+	name: Sea King of Anger
+	image: image16.png
+	type: Monster|Aquatic|Warrior
+	attribute: water
+	grade: level level 3
+	textbox: Once per duel, if this card declares an attack you can replace one EARTH Terrain with a "Sea" Terrain.
+	effects: Once per duel, if this card declares an attack you can replace one EARTH Terrain with a "Sea" Terrain.
+	atk: 800
+	def: 700
+	atkbonus: +240
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-28</i-setitalics>

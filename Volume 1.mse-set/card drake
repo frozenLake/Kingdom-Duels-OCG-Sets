@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:16
+	time_modified: 2024-11-24 02:11:38
+	name: Drake
+	image: image32.png
+	type: Monster|Avian|Flying
+	attribute: wind
+	grade: level level 3
+	textbox: You can decrease the DEF of a monster on the field by 1500, until the end of the turn. You can only use the effect of "Drake" once per turn.
+	effects: You can decrease the DEF of a monster on the field by 1500, until the end of the turn. You can only use the effect of "Drake" once per turn.
+	atk: 800
+	def: 800
+	atkbonus: +240
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-30</i-setitalics>

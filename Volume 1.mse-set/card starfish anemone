@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:22
+	time_modified: 2024-11-24 18:04:25
+	name: Starfish Anemone
+	image: image40.png
+	type: Monster|Aquatic
+	attribute: water
+	grade: level level 2
+	textbox: This card gains +500 ATK when battling EARTH monsters and +800 ATK when battling Machines.
+	effects: This card gains +500 ATK when battling EARTH monsters and +800 ATK when battling Machines.
+	atk: 600
+	def: 700
+	atkbonus: +180
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-22</i-setitalics>

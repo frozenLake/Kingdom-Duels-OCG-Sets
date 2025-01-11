@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:25
+	time_modified: 2024-11-24 01:29:11
+	name: Dark Gray
+	image: image17.png
+	type: Monster|Beast
+	attribute: earth
+	grade: level level 3
+	textbox: This monster gains the Elusive type when attacked on "Forest" Terrain.
+	effects: This monster gains the Elusive type when attacked on "Forest" Terrain.
+	atk: 800
+	def: 900
+	atkbonus: +240
+	defbonus: +270
+	cardid: <i-setitalics>VOL1-08</i-setitalics>

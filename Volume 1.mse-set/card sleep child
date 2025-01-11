@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:35
+	time_modified: 2024-11-24 01:27:04
+	name: Sleep Child
+	image: image12.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 3
+	textbox: If this monster is face-up on the field, Once per duel, you may add the Slumbering type to all other monsters on the field.
+	effects: If this monster is face-up on the field, Once per duel, you may add the Slumbering type to all other monsters on the field.
+	atk: 800
+	def: 700
+	atkbonus: +240
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-09</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:07:29
+	card_type: rule
+	name: Corrosive Poison
+	image: image47.png
+	type: Rule
+	attribute: water
+	textbox:
+		KEYWORD: Poisoned.<soft-line>
+		Poisoned monsters lose 100 ATK times their Level on each End Phase, and they cannot receive a Field Power Bonus.</soft-line>
+	effects:
+		KEYWORD: Poisoned.<soft-line>
+		Poisoned monsters lose 100 ATK times their Level on each End Phase, and they cannot receive a Field Power Bonus.</soft-line>
+	cardid: <i-setitalics>VOL1-EX-06</i-setitalics>

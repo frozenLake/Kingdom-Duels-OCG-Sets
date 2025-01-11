@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:28
+	time_modified: 2024-11-24 18:10:03
+	card_type: normal monster
+	name: Daemon's Mirror
+	image: image35.png
+	type: Monster|Demon|Illusion
+	attribute: dark
+	grade: level level 2
+	textbox:
+		You can flip this monster when your opponent declares an attack.
+		FLIP: You can add the Hypnotized Type to an opponent's monster. When this monster is destroyed, remove the Hypnotized Type from any affected Monsters.
+	effects:
+		You can flip this monster when your opponent declares an attack.
+		FLIP: You can add the Hypnotized Type to an opponent's monster. When this monster is destroyed, remove the Hypnotized Type from any affected Monsters.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-27</i-setitalics>

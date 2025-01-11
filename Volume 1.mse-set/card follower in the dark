@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:06
+	time_modified: 2024-11-24 18:07:43
+	name: Follower in the Dark
+	image: image29.png
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 2
+	textbox: Once per duel, you can Tribute this card during your Main Phase to replace one of your Terrains with a "Yami" or "Night" Terrain.
+	effects: Once per duel, you can Tribute this card during your Main Phase to replace one of your Terrains with a "Yami" or "Night" Terrain.
+	atk: 700
+	def: 500
+	atkbonus: +210
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-29</i-setitalics>

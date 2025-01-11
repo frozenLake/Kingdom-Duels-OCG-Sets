@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:57:01
+	time_modified: 2024-11-24 02:03:34
+	name: Death Foot
+	image: image33.png
+	type: Monster|Demon
+	attribute: dark
+	grade: level level 3
+	textbox: FLIP: All other monsters on the field are Battle Locked into Face Up Attack Position until the End Phase.
+	effects: FLIP: All other monsters on the field are Battle Locked into Face Up Attack Position until the End Phase.
+	atk: 700
+	def: 800
+	atkbonus: +210
+	defbonus: +240
+	cardid: <i-setitalics>VOL1-25</i-setitalics>

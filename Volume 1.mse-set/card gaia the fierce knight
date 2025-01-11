@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:47:52
+	time_modified: 2024-11-24 01:29:38
+	name: Gaia The Fierce Knight
+	image: image19.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 7
+	textbox: While face-up on the field, this card is also considered LIGHT-Attribute
+	effects: While face-up on the field, this card is also considered LIGHT-Attribute
+	atk: 2300
+	def: 2100
+	atkbonus: +690
+	defbonus: +630
+	cardid: <i-setitalics>VOL1-03</i-setitalics>

@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:27
+	time_modified: 2024-12-09 14:16:09
+	card_type: spell
+	name: Red Potion
+	image: image38.png
+	type: Spell
+	attribute: water
+	textbox:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 500 points.<soft-line>
+		*O Target a monster you control, for the rest of the turn its ATK and DEF are increased by 500 points, but it can't destroy other monsters by battle or deal battle damage.</soft-line></soft-line>
+	effects:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 500 points.<soft-line>
+		*O Target a monster you control, for the rest of the turn its ATK and DEF are increased by 500 points, but it can't destroy other monsters by battle or deal battle damage.</soft-line></soft-line>
+	cardid: <i-setitalics>VOL1-37</i-setitalics>

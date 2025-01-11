@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:11
+	time_modified: 2025-01-11 15:20:57
+	name: Daemon Beaver
+	image: image36.png
+	type: Monster|Beast|Flying
+	attribute: earth
+	grade: level level 2
+	textbox: Grants a Field Power Bonus to all Beast, Insect, and Plant Monsters, other than this card.
+	effects: Grants a Field Power Bonus to all Beast, Insect, and Plant Monsters, other than this card.
+	atk: 400
+	def: 600
+	atkbonus: +120
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-16</i-setitalics>

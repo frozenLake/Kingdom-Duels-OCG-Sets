@@ -1,0 +1,15 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:09
+	time_modified: 2024-11-24 18:11:56
+	card_type: spell
+	name: Power of Poseidon
+	image: image37.png
+	type: Spell|Equip
+	attribute: water
+	grade: glyph equip
+	textbox: Equip only to an Aquatic monster. This card can be equiped to Aquatic monsters you control even if they are Face Down. EQUIP: +300 ATK and DEF.
+	effects: Equip only to an Aquatic monster. This card can be equiped to Aquatic monsters you control even if they are Face Down. EQUIP: +300 ATK and DEF.
+	cardid: <i-setitalics>VOL1-35</i-setitalics>

@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:23:07
+	card_type: rule
+	name: Living Graveyard
+	image: image50.png
+	type: Rule
+	attribute: dark
+	textbox:
+		KEYWORD: Regeneration
+		Players can Special Summon from their graveyard (at the end of each Battle Phase) as many Regeneration monsters as they can that were destroyed by battle that turn while having an ATK higher than 0.
+	effects:
+		KEYWORD: Regeneration
+		Players can Special Summon from their graveyard (at the end of each Battle Phase) as many Regeneration monsters as they can that were destroyed by battle that turn while having an ATK higher than 0.
+	cardid: <i-setitalics>VOL1-EX-10</i-setitalics>

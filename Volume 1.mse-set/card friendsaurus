@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:50:09
+	time_modified: 2024-12-09 14:54:40
+	name: Friendsaurus
+	image: image28.png
+	type: Monster|Dinosaur
+	attribute: earth
+	grade: level level 2
+	textbox: Once per duel, target a Dinosaur or Reptile monster you control. It is destroyed, and this card increases its original ATK and DEF by that monster's original ATK and DEF.
+	effects: Once per duel, target a Dinosaur or Reptile monster you control. It is destroyed, and this card increases its original ATK and DEF by that monster's original ATK and DEF.
+	atk: 500
+	def: 400
+	atkbonus: +150
+	defbonus: +120
+	cardid: <i-setitalics>VOL1-07</i-setitalics>

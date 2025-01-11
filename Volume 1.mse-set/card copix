@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:53:45
+	time_modified: 2024-12-09 15:09:37
+	name: Copix
+	image: image9.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 2
+	textbox:
+		When this card is targeted for an attack, you can target a non-combatant monster on the field. Negate the attack if:
+		*O This card is in Attack Position and the attacking monster has equal or less ATK than the targeted monster's ATK.
+		*O This card is in Defense Position and the attacking monster has equal or less ATK than the targeted monster's DEF.
+	effects:
+		When this card is targeted for an attack, you can target a non-combatant monster on the field. Negate the attack if:
+		*O This card is in Attack Position and the attacking monster has equal or less ATK than the targeted monster's ATK.
+		*O This card is in Defense Position and the attacking monster has equal or less ATK than the targeted monster's DEF.
+	atk: 600
+	def: 500
+	atkbonus: +180
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-13</i-setitalics>

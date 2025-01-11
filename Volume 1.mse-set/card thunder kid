@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:55:03
+	time_modified: 2025-01-11 15:14:46
+	name: Thunder Kid
+	image: image41.png
+	type: Monster|Beast|Thunderblast
+	attribute: light
+	grade: level level 2
+	textbox: STRIKE: The attacked Terrain becomes LIGHT attribute until your next Standby Phase.
+	effects: STRIKE: The attacked Terrain becomes LIGHT attribute until your next Standby Phase.
+	atk: 700
+	def: 600
+	atkbonus: +210
+	defbonus: +180
+	cardid: <i-setitalics>VOL1-19</i-setitalics>

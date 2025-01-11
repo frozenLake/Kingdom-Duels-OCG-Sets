@@ -1,0 +1,15 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:20
+	time_modified: 2024-11-24 01:15:35
+	card_type: spell
+	name: Black Hole
+	image: image1.png
+	type: Spell
+	attribute: dark
+	grade: glyph normal
+	textbox: Destroy all cards on the field. You cannot play any further cards this turn.
+	effects: Destroy all cards on the field. You cannot play any further cards this turn.
+	cardid: <i-setitalics>VOL1-36</i-setitalics>

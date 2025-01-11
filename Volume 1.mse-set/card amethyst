@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:56
+	time_modified: 2024-11-24 02:10:05
+	card_type: spell
+	name: Amethyst
+	image: image7.png
+	type: Spell|Equip
+	attribute: dark
+	grade: glyph equip
+	textbox:
+		Equip only to an Undead or Zombie monster.
+		EQUIP: +300 ATK, +Regeneraton.
+	effects:
+		Equip only to an Undead or Zombie monster.
+		EQUIP: +300 ATK, +Regeneraton.
+	cardid: <i-setitalics>VOL1-33</i-setitalics>

@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 14:44:26
+	card_type: alter monster
+	name: Torunka, The Black-Clothed Great Sage
+	image: image42.png
+	type: Alter Monster|Timeshifted|Spellcaster
+	attribute: dark
+	grade: level level 9
+	textbox:
+		SUMMON: "Dark Magician"<soft-line>
+		No cards can be equipped to this monster. While this card is face-up on the field, you may activate one Spell Card from your hand during your opponent's turn as a Quick Effect. During your Draw Phase, instead of conducting your normal draw, you can add 1 Spell Card from your Deck to your Hand.
+		</soft-line>
+	effects:
+		SUMMON: "Dark Magician"<soft-line>
+		No cards can be equipped to this monster. While this card is face-up on the field, you may activate one Spell Card from your hand during your opponent's turn as a Quick Effect. During your Draw Phase, instead of conducting your normal draw, you can add 1 Spell Card from your Deck to your Hand.
+		</soft-line>
+	atk: 100
+	def: 3200
+	atkbonus: +30
+	defbonus: +960
+	cardid: <i-setitalics>VOL1-EX-01</i-setitalics>

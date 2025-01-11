@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:52:03
+	time_modified: 2024-12-09 15:11:13
+	name: Fire Devil
+	image: image31.png
+	type: Monster|Undead|Fireblast
+	attribute: dark
+	grade: level level 2
+	textbox: Once per turn, you can target a monster on the field. That monster gains the Poisoned-Type.
+	effects: Once per turn, you can target a monster on the field. That monster gains the Poisoned-Type.
+	atk: 700
+	def: 500
+	atkbonus: +210
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-11</i-setitalics>

@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:58:42
+	time_modified: 2024-12-01 15:22:29
+	card_type: spell
+	name: Beast Fangs
+	image: image3.png
+	type: Spell|Equip
+	attribute: earth
+	grade: glyph equip
+	textbox:
+		Equip only to a non-Warrior Normal Beast monster.
+		EQUIP: +300 ATK, +300 DEF. If the equipped monster is destroyed by battle, the monster that destroyed it loses 300 ATK and DEF.
+	effects:
+		Equip only to a non-Warrior Normal Beast monster.
+		EQUIP: +300 ATK, +300 DEF. If the equipped monster is destroyed by battle, the monster that destroyed it loses 300 ATK and DEF.
+	cardid: <i-setitalics>VOL1-32</i-setitalics>

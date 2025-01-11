@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:48:33
+	time_modified: 2024-12-01 15:14:36
+	card_type: spell monster
+	name: Curtain of the Dark-Magic Tribe
+	image: image10.png
+	type: Spell Monster|Spellcaster
+	attribute: dark
+	grade: level level 2
+	textbox:
+		[Play: As a monster, or an Equip Spell Card] *A You can equip this card to a Spellcaster Monster. <soft-line>
+		EQUIP: +300 ATK, +250 DEF, +</soft-line>DARK-Attribute
+	effects:
+		[Play: As a monster, or an Equip Spell Card] *A You can equip this card to a Spellcaster Monster. <soft-line>
+		EQUIP: +300 ATK, +250 DEF, +</soft-line>DARK-Attribute
+	atk: 600
+	def: 500
+	atkbonus: +180
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-06</i-setitalics>

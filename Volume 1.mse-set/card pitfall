@@ -1,0 +1,14 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:59
+	time_modified: 2024-11-24 18:16:04
+	card_type: trap
+	name: Pitfall
+	image: image13.png
+	type: Trap
+	attribute: earth
+	textbox: [Trigger: Your opponent summons a Normal monster with 1000 or more ATK] *A Target that monster: if it is not a Flying monster, destroy that target. If the terrain that Monster is on is WATER: Replace the terrain with Wasteland.
+	effects: [Trigger: Your opponent summons a Normal monster with 1000 or more ATK] *A Target that monster: if it is not a Flying monster, destroy that target. If the terrain that Monster is on is WATER: Replace the terrain with Wasteland.
+	cardid: <i-setitalics>VOL1-40</i-setitalics>

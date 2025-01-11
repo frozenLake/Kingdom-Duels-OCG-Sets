@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 15:22:15
+	card_type: rule
+	name: Power of Hypnosis
+	image: image49.png
+	type: Rule
+	attribute: dark
+	textbox:
+		KEYWORD: Hypnotized.
+		Hypnotized monsters controlled by their owners cannot attack.
+	effects:
+		KEYWORD: Hypnotized.
+		Hypnotized monsters controlled by their owners cannot attack.
+	cardid: <i-setitalics>VOL1-EX-09</i-setitalics>

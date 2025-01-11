@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-09 14:29:07
+	time_modified: 2024-12-09 14:39:35
+	card_type: alter monster
+	name: Awakened Gaia the Fierce Knight
+	image: image5.png
+	type: Alter Monster|Ascended|Warrior
+	attribute: light
+	grade: level level 7
+	textbox:
+		SUMMON: "Gaia The Fierce Knight"<soft-line>
+		While face-up on the field, this card is also considered EARTH-Attribute. If your opponent controls more monsters than you do, this monster gains 200 ATK.</soft-line>
+	effects:
+		SUMMON: "Gaia The Fierce Knight"<soft-line>
+		While face-up on the field, this card is also considered EARTH-Attribute. If your opponent controls more monsters than you do, this monster gains 200 ATK.</soft-line>
+	atk: 2700
+	def: 1900
+	atkbonus: +810
+	defbonus: +570
+	cardid: <i-setitalics>VOL1-EX-02</i-setitalics>

@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:56:53
+	time_modified: 2024-11-24 02:04:45
+	card_type: spell monster
+	name: Haniwa
+	image: image27.png
+	type: Spell Monster|Elemental|Protector
+	attribute: earth
+	grade: level level 2
+	textbox:
+		When you special summon a Warrior Support Monster from your graveyard, you can equip this card to it from your hand, field or graveyard.
+		EQUIP: +500 ATK, +500 DEF. If the equipped monster would be destroyed, you can destroy this card instead.
+	effects:
+		When you special summon a Warrior Support Monster from your graveyard, you can equip this card to it from your hand, field or graveyard.
+		EQUIP: +500 ATK, +500 DEF. If the equipped monster would be destroyed, you can destroy this card instead.
+	atk: 500
+	def: 500
+	atkbonus: +150
+	defbonus: +150
+	cardid: <i-setitalics>VOL1-24</i-setitalics>

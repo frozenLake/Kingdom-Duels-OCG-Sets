@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:54:00
+	time_modified: 2025-01-11 15:21:06
+	name: Petit Dragon
+	image: image23.png
+	type: Monster|Dragon|Flying
+	attribute: wind
+	grade: level level 2
+	textbox: Grants a Field Power Bonus to all Avian, Dragon, and Flying Monsters, other than this card.
+	effects: Grants a Field Power Bonus to all Avian, Dragon, and Flying Monsters, other than this card.
+	atk: 600
+	def: 700
+	atkbonus: +180
+	defbonus: +210
+	cardid: <i-setitalics>VOL1-15</i-setitalics>

@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:41:26
+	time_modified: 2024-11-24 01:23:57
+	card_type: normal monster
+	name: Cyclops
+	image: image11.png
+	type: Monster|Beast|Warrior
+	attribute: earth
+	grade: level level 4
+	textbox: If this card attacks an opponent monster, and that monster is not destroyed after damage calculation: you can Battle Lock it for one turn.
+	effects: If this card attacks an opponent monster, and that monster is not destroyed after damage calculation: you can Battle Lock it for one turn.
+	atk: 1200
+	def: 1000
+	atkbonus: +360
+	defbonus: +300
+	cardid: <i-setitalics>VOL1-01</i-setitalics>

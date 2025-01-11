@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-11-23 21:59:39
+	time_modified: 2024-12-01 15:21:58
+	card_type: spell
+	name: Sparks
+	image: image39.png
+	type: Spell
+	attribute: fire
+	textbox:
+		Choose one:<soft-line>
+		*O </soft-line>Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Fireblast Monster.
+		*O Increase the ATK of Fireblast monsters you control by 200 points.
+	effects:
+		Choose one:<soft-line>
+		*O </soft-line>Inflict 50 points of damage to your opponent's Life Points. This is treated as an attack by a Fireblast Monster.
+		*O Increase the ATK of Fireblast monsters you control by 200 points.
+	cardid: <i-setitalics>VOL1-38</i-setitalics>
