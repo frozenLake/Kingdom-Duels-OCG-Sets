@@ -11,4 +11,4 @@ This allows for cards that reference a single card to know that they are indeed,
 That is meant for images to be directly referenced by Tabletop Simulator, allowing for live updates, before this is completely converted into a full addon.
 
 ## What are the Holographic Overlays for?
-If, by chance, we ever start using full on Unity Asset Bundles for individual cards, the holographic overlays would help define what parts of a card's image should have the holographic shimmer.
+If, by chance, we ever start using full on Unity Asset Bundles for individual cards, the holographic overlays would help define what parts of a card's image should have the holographic shimmer. The brighter the pixel, the stronger the holographic effect should be on that part of the card.
