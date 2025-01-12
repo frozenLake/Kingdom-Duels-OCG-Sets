@@ -6,3 +6,9 @@ This is a collection of cards, designed for the game [Kingdom Duels](https://kin
 
 Yes, as a matter of fact! To aid in cohesiveness, cards that appear in the main and story sets for Kingdom Duels are directly duplicated.
 This allows for cards that reference a single card to know that they are indeed, referencing that card, and not another card with a different, potentially more useful effect.
+
+## What is the OutputImages folder?
+That is meant for images to be directly referenced by Tabletop Simulator, allowing for live updates, before this is completely converted into a full addon.
+
+## What are the Holographic Overlays for?
+If, by chance, we ever start using full on Unity Asset Bundles for individual cards, the holographic overlays would help define what parts of a card's image should have the holographic shimmer.
