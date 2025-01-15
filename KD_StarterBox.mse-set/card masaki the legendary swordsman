@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:36:37
+	card_type: normal monster
+	name: Masaki the Legendary Swordsman
+	image: image12
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 4
+	textbox: If this monster is affected by a Field Power Bonus; other Warrior monsters you control gain ATK and DEF equal to this monster's Field Power Bonus.
+	effects: If this monster is affected by a Field Power Bonus; other Warrior monsters you control gain ATK and DEF equal to this monster's Field Power Bonus.
+	atk: 1100
+	def: 1100
+	atkbonus: +330
+	defbonus: +330
+	cardid: <i-setitalics>SBX1-37</i-setitalics>

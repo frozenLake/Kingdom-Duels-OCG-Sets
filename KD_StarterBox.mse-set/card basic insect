@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:48:00
+	card_type: normal monster
+	name: Basic Insect
+	image: image18
+	type: Monster|Insect
+	attribute: earth
+	grade: level level 2
+	textbox: This monster can't be Poisoned.
+	effects: This monster can't be Poisoned.
+	atk: 500
+	def: 700
+	atkbonus: +150
+	defbonus: +210
+	cardid: <i-setitalics>SBX1-06</i-setitalics>

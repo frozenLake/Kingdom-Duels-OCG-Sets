@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:58:20
+	card_type: normal monster
+	name: Killer the Flame Knight
+	image: image21
+	type: Monster|Elemental|Warrior
+	attribute: fire
+	grade: level level 3
+	textbox: This monster cannot be destroyed in battle by Fireblast monsters, and negates all battle damage taken by the controller when in battle with Fireblast monsters.
+	effects: This monster cannot be destroyed in battle by Fireblast monsters, and negates all battle damage taken by the controller when in battle with Fireblast monsters.
+	atk: 1100
+	def: 800
+	atkbonus: +330
+	defbonus: +240
+	cardid: <i-setitalics>SBX1-09</i-setitalics>

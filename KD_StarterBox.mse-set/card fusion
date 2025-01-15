@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:31:20
+	card_type: spell
+	name: Fusion
+	image: image45
+	type: Spell
+	attribute: light
+	grade: glyph normal
+	textbox:
+		Choose one:
+		*O Fusion Summon 1 monster using monsters from your hand and/or field as materials.
+		*O Target a monster you control: attach to it one other monster you control that has an ATTACH effect.
+	effects:
+		Choose one:
+		*O Fusion Summon 1 monster using monsters from your hand and/or field as materials.
+		*O Target a monster you control: attach to it one other monster you control that has an ATTACH effect.
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-48</i-setitalics>

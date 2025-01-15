@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: Art should be Bandai, instead of the art that would appear in this set normally.
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-12 19:36:56
+	card_type: normal monster
+	name: Flame Swordsman
+	image: image39.png
+	type: Monster|Warrior|Fireblast
+	attribute: fire
+	grade: level level 5
+	textbox: Once per turn you can decrease this card's ATK until the End Phase by X (an amount of your choice, up to 600) and then target 1 other Warrior you control (this is a Slow Effect): that monster gains X ATK until the End Phase.
+	effects: Once per turn you can decrease this card's ATK until the End Phase by X (an amount of your choice, up to 600) and then target 1 other Warrior you control (this is a Slow Effect): that monster gains X ATK until the End Phase.
+	atk: 1800
+	def: 1600
+	atkbonus: +540
+	defbonus: +480
+	cardid: <i-setitalics>SBX1-03</i-setitalics>

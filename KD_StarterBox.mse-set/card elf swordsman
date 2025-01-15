@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: Art should be Bandai, instead of the art that would appear in this set normally.
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-12 19:41:52
+	card_type: normal monster
+	name: Elf Swordsman
+	image: image40.png
+	type: Monster|Warrior
+	attribute: earth
+	grade: level level 4
+	textbox: If this card in ATK Position is attacked it gains the following effect until the End Phase: this card cannot be destroyed by battle with a monster that has 1900 or more original ATK.
+	effects: If this card in ATK Position is attacked it gains the following effect until the End Phase: this card cannot be destroyed by battle with a monster that has 1900 or more original ATK.
+	atk: 1400
+	def: 1200
+	atkbonus: +420
+	defbonus: +360
+	cardid: <i-setitalics>SBX1-00</i-setitalics>

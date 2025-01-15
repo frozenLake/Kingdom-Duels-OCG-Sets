@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:51:46
+	card_type: alter monster
+	name: Wight Swarm
+	image: image3.png
+	type: Alter Monster|Swarm|Undead
+	attribute: dark
+	grade: level level 1
+	textbox:
+		SUMMON: "Wight"<soft-line>
+		This ATK position monster cannot be destroyed by battle.</soft-line>
+	effects:
+		SUMMON: "Wight"<soft-line>
+		This ATK position monster cannot be destroyed by battle.</soft-line>
+	atk: 3000
+	def: 2000
+	atkbonus: +900
+	defbonus: +600
+	cardid: <i-setitalics>SBX1-EX-02</i-setitalics>

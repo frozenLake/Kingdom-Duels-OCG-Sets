@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:29:41
+	card_type: normal monster
+	name: Shadow Fighter
+	image: image48
+	type: Monster|Warrior
+	attribute: dark
+	grade: level level 2
+	textbox: Once per duel, during the Battle Phase, you can double this monster's original ATK until the End Phase (this is a Quick Effect).
+	effects: Once per duel, during the Battle Phase, you can double this monster's original ATK until the End Phase (this is a Quick Effect).
+	atk: 800
+	def: 600
+	atkbonus: +240
+	defbonus: +180
+	cardid: <i-setitalics>SBX1-51</i-setitalics>

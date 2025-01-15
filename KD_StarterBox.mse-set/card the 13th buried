@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:47:06
+	card_type: normal monster
+	name: The 13th Buried
+	image: image20
+	type: Monster|Undead
+	attribute: dark
+	grade: level level 3
+	textbox:
+		If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
+
+	effects:
+		If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
+
+	atk: 1200
+	def: 900
+	atkbonus: +360
+	defbonus: +270
+	cardid: <i-setitalics>SBX1-08</i-setitalics>

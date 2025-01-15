@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:52:42
+	card_type: normal monster
+	name: Wight
+	image: image16
+	type: Monster|Undead
+	attribute: dark
+	grade: level level 1
+	textbox: If you summon a "Wight" while this card is on your side of the field, place a Wight Counter on this card. This monster gains 300 ATK and DEF for every Wight Counter on it.
+	effects: If you summon a "Wight" while this card is on your side of the field, place a Wight Counter on this card. This monster gains 300 ATK and DEF for every Wight Counter on it.
+	atk: 300
+	def: 200
+	atkbonus: +90
+	defbonus: +60
+	cardid: <i-setitalics>SBX1-04</i-setitalics>

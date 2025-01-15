@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 15:49:35
+	card_type: normal monster
+	name: Dark Blaze Dragon
+	image: image26
+	type: Monster|Dragon|Elemental
+	attribute: fire
+	grade: level level 4
+	textbox:
+		This monster is also DARK-Attribute, but not a DARK-Elemental.
+		If you control a Warrior monster, tou may tribute this monster, and search your Deck for "Salamandra".
+	effects:
+		This monster is also DARK-Attribute, but not a DARK-Elemental.
+		If you control a Warrior monster, tou may tribute this monster, and search your Deck for "Salamandra".
+	atk: 1500
+	def: 1250
+	atkbonus: +450
+	defbonus: +375
+	cardid: <i-setitalics>SBX1-14</i-setitalics>

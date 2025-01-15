@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: Thanks to Metaphys for this card effect!
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 15:57:43
+	card_type: normal monster
+	name: Sting
+	image: image35
+	type: Monster|Elemental
+	attribute: fire
+	grade: level level 2
+	textbox: If this card battles a Plant monster, destroy that monster, before damage calculation.
+	effects: If this card battles a Plant monster, destroy that monster, before damage calculation.
+	atk: 600
+	def: 500
+	atkbonus: +180
+	defbonus: +150
+	cardid: <i-setitalics>SBX1-23</i-setitalics>

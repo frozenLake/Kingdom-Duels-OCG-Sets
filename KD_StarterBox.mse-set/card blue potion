@@ -1,0 +1,20 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 12:10:27
+	time_modified: 2024-12-05 17:45:20
+	card_type: spell
+	name: Blue Potion
+	image: image5.png
+	type: Spell
+	attribute: water
+	textbox:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 400 points. If "Red Potion" was played this turn, Increase your Life Points by an additional 300 points.<soft-line>
+		*O Target a monster you control. It now has the Blessed-Type until the end of the turn.</soft-line></soft-line>
+	effects:
+		Choose one:<soft-line>
+		*O Increase your Life Points by 400 points. If "Red Potion" was played this turn, Increase your Life Points by an additional 300 points.<soft-line>
+		*O Target a monster you control. It now has the Blessed-Type until the end of the turn.</soft-line></soft-line>
+	cardid: <i-setitalics>BSTR1-34</i-setitalics>

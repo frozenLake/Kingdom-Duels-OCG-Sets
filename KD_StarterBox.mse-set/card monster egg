@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 15:49:37
+	card_type: normal monster
+	name: Monster Egg
+	image: image25
+	type: Monster|Beast|Warrior
+	attribute: earth
+	grade: level level 3
+	textbox: You can tribute this monster, add a Timeshifted Warrior monster from your GY to your Extra Deck.
+	effects: You can tribute this monster, add a Timeshifted Warrior monster from your GY to your Extra Deck.
+	atk: 600
+	def: 900
+	atkbonus: +180
+	defbonus: +270
+	cardid: <i-setitalics>SBX1-13</i-setitalics>

@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 17:00:54
+	card_type: normal monster
+	name: Necrolancer the Time Djinn
+	image: image24
+	type: Monster|Spellcaster
+	attribute: dark
+	grade: level level 3
+	textbox: Once per turn, you can add 3 summoning counters to a monster you control, and then Alter Summon a Timeshifted Monster using that monster as material.
+	effects: Once per turn, you can add 3 summoning counters to a monster you control, and then Alter Summon a Timeshifted Monster using that monster as material.
+	atk: 800
+	def: 900
+	atkbonus: +240
+	defbonus: +270
+	cardid: <i-setitalics>SBX1-12</i-setitalics>

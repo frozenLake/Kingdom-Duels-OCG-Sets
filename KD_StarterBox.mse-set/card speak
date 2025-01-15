@@ -1,0 +1,12 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 12:10:03
+	time_modified: 2024-12-05 22:23:05
+	name: Speak
+	image: image27.png
+	type: 
+	textbox: 
+	effects: 
+	cardid: <i-setitalics>BSTR1-28</i-setitalics>

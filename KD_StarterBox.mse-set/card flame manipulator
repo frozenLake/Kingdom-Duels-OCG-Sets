@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:57:21
+	card_type: normal monster
+	name: Flame Manipulator
+	image: image23
+	type: Monster|Spellcaster
+	attribute: fire
+	grade: level level 3
+	textbox: Once per Turn, instead of Attacking: You may tribute this card to search your deck for a FIRE-Attribute Spell. Then, you immediately play it.
+	effects: Once per Turn, instead of Attacking: You may tribute this card to search your deck for a FIRE-Attribute Spell. Then, you immediately play it.
+	atk: 900
+	def: 1000
+	atkbonus: +270
+	defbonus: +300
+	cardid: <i-setitalics>SBX1-11</i-setitalics>

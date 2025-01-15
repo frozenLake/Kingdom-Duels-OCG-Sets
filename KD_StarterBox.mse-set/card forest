@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 16:08:05
+	card_type: spell
+	name: Forest
+	image: image14
+	type: Spell
+	attribute: earth
+	grade: glyph normal
+	textbox:
+		Replace three connected terrain with "Forest"
+		terrain.
+	effects:
+		Replace three connected terrain with "Forest"
+		terrain.
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-39</i-setitalics>

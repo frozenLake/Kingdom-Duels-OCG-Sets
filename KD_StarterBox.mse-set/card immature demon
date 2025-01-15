@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-03 12:10:21
+	time_modified: 2024-12-05 17:53:52
+	name: Immature Demon
+	image: image21.png
+	type: Monster|Demon
+	attribute: dark
+	grade: level level 2
+	textbox:
+		FLIP: Attach an Opponent's Monster to this card. If this monster is destroyed by battle, return the attached monster to your opponent's side of the field, if possible.
+		When this monster is used for an Alter Summon of a Timeshifted-Type Monster: You may instead Alter Summon 1 "Demon's Summon" from your Hand, Deck, or Graveyard, using this card as material.
+	effects:
+		FLIP: Attach an Opponent's Monster to this card. If this monster is destroyed by battle, return the attached monster to your opponent's side of the field, if possible.
+		When this monster is used for an Alter Summon of a Timeshifted-Type Monster: You may instead Alter Summon 1 "Demon's Summon" from your Hand, Deck, or Graveyard, using this card as material.
+	atk: 500
+	def: 750
+	atkbonus: +150
+	defbonus: +225
+	cardid: <i-setitalics>BSTR1-32</i-setitalics>

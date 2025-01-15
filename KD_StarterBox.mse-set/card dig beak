@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:31:35
+	time_modified: 2024-12-05 17:46:17
+	name: Dig Beak
+	image: image7.png
+	type: Monster|Beast|Burrowing
+	attribute: earth
+	grade: level level 2
+	textbox: Once per turn, during your Main Phase: You can Equip this card to an opponent's monster, and Battle Lock it in Defense Position.
+	effects: Once per turn, during your Main Phase: You can Equip this card to an opponent's monster, and Battle Lock it in Defense Position.
+	atk: 500
+	def: 800
+	atkbonus: +150
+	defbonus: +240
+	cardid: <i-setitalics>BSTR1-15</i-setitalics>

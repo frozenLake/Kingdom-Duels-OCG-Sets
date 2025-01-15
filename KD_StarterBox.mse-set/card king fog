@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:28:16
+	card_type: token
+	name: King Fog
+	image: image49
+	type: 
+	attribute: none
+	grade: glyph normal
+	textbox: 
+	effects: 
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-55</i-setitalics>

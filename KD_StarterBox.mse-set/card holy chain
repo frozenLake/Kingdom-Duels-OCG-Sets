@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:31:18
+	time_modified: 2025-01-11 17:42:49
+	card_type: spell
+	name: Holy Chain
+	image: image20.png
+	type: Spell|Equip
+	attribute: light
+	grade: glyph equip
+	textbox:
+		Equip only to a Normal of a Demon monster.
+		EQUIP: As long as this card is equipped, the equipped monster gains the Sealed type, it cannot attack or move.
+	effects:
+		Equip only to a Normal of a Demon monster.
+		EQUIP: As long as this card is equipped, the equipped monster gains the Sealed type, it cannot attack or move.
+	atk: 700
+	def: 700
+	atkbonus: +210
+	defbonus: +210
+	cardid: <i-setitalics>BSTR1-11</i-setitalics>

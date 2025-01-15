@@ -1,0 +1,68 @@
+﻿mse_version: 2.0.2
+game: kingdomduels
+game_version: 2024-10-29
+stylesheet: standard
+stylesheet_version: 2024-10-29
+include_file: card hell-bound
+include_file: card blue-eyes white dragon
+include_file: card flame swordsman
+include_file: card legendary swordsmaster of the viridian flame
+include_file: card wight
+include_file: card root water
+include_file: card basic insect
+include_file: card trial of hell
+include_file: card the 13th buried
+include_file: card killer the flame knight
+include_file: card mystery hand
+include_file: card flame manipulator
+include_file: card necrolancer the time djinn
+include_file: card monster egg
+include_file: card dark blaze dragon
+include_file: card dark king of the abyss
+include_file: card dark prisoner
+include_file: card monsturtle
+include_file: card masked clown
+include_file: card fiend reflection 2
+include_file: card fusionist
+include_file: card key mace
+include_file: card turtle tiger
+include_file: card sting
+include_file: card aqua madoor
+include_file: card flame ghost
+include_file: card elf swordsman
+include_file: card two-mouth darkruler
+include_file: card lunar queen elzaim
+include_file: card devil gun
+include_file: card ancient tree of enlightenment
+include_file: card dissolverock
+include_file: card mountain warrior
+include_file: card green phantom king
+include_file: card ray  temperature
+include_file: card serpent marauder
+include_file: card change slime
+include_file: card mystical sheep 2
+include_file: card masaki the legendary swordsman
+include_file: card pot of dragon-tribe sealing
+include_file: card forest
+include_file: card wasteland
+include_file: card thunder bolt
+include_file: card meadow
+include_file: card sea
+include_file: card yami
+include_file: card mooyan curry
+include_file: card mountain
+include_file: card fire ball
+include_file: card fusion
+include_file: card remove trap
+include_file: card two-pronged attack
+include_file: card shadow fighter
+include_file: card king fog
+include_file: card spiked snail
+include_file: card genin
+include_file: card rock ogre grotto 2
+include_file: card wight swarm
+include_file: card todo
+include_file: card todo.1
+version_control:
+	type: none
+apprentice_code: 

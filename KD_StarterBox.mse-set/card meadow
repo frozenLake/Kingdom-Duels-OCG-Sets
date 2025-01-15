@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 16:08:35
+	card_type: spell
+	name: Meadow
+	image: image39
+	type: Spell
+	attribute: earth
+	grade: glyph normal
+	textbox: Replace three connected terrain with "Meadow" terrain.
+	effects: Replace three connected terrain with "Meadow" terrain.
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-42</i-setitalics>

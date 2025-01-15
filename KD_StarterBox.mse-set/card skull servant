@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:20:59
+	card_type: token
+	name: Skull Servant
+	image: image16
+	type: 
+	attribute: none
+	grade: glyph normal
+	textbox: 
+	effects: 
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-04</i-setitalics>

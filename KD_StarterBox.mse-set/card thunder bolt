@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 16:10:33
+	card_type: spell
+	name: Thunder Bolt
+	image: image38
+	type: Spell
+	attribute: light
+	grade: glyph normal
+	textbox: Tribute one monster you control, then destroy all monsters your opponent controls with ATK equal to or lower than the tributed monster. This is treated as an attack from a Thunderblast monster.
+	effects: Tribute one monster you control, then destroy all monsters your opponent controls with ATK equal to or lower than the tributed monster. This is treated as an attack from a Thunderblast monster.
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-45</i-setitalics>

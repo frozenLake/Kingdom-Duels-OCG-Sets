@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-15 16:00:20
+	card_type: spell monster
+	name: Devil Gun
+	image: image3
+	type: Spell Monster|Demon
+	attribute: dark
+	grade: level level 2
+	textbox:
+		[Play: As a Monster or as a Slow Effect Equip Spell.] 
+		*A You may equip this monster to a Warrior, Support, or Demon monster. EQUIP: +600 ATK
+	effects:
+		[Play: As a Monster or as a Slow Effect Equip Spell.] 
+		*A You may equip this monster to a Warrior, Support, or Demon monster. EQUIP: +600 ATK
+	atk: 600
+	def: 800
+	atkbonus: +180
+	defbonus: +240
+	cardid: <i-setitalics>SBX1-27</i-setitalics>

@@ -1,0 +1,19 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-12-02 21:26:09
+	time_modified: 2025-01-13 16:32:10
+	card_type: spell
+	name: Remove Trap
+	image: image46
+	type: Spell
+	attribute: light
+	grade: glyph normal
+	textbox: Target 1 face-up Continuous or Equip Trap Card on the field; destroy it.
+	effects: Target 1 face-up Continuous or Equip Trap Card on the field; destroy it.
+	atk: 
+	def: 
+	atkbonus: 
+	defbonus: 
+	cardid: <i-setitalics>SBX1-49</i-setitalics>
