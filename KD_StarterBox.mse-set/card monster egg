@@ -3,10 +3,10 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-02 21:26:09
-	time_modified: 2025-01-15 15:49:37
+	time_modified: 2025-01-17 16:37:26
 	card_type: normal monster
 	name: Monster Egg
-	image: image25
+	image: image11.png
 	type: Monster|Beast|Warrior
 	attribute: earth
 	grade: level level 3
