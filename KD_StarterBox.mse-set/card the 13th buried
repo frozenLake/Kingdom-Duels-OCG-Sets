@@ -10,12 +10,8 @@ card:
 	type: Monster|Undead
 	attribute: dark
 	grade: level level 3
-	textbox:
-		If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
-
-	effects:
-		If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
-
+	textbox: If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
+	effects: If this card is summoned from your graveyard you can change the Terrain it is summoned on to a Graveyard Terrain. In your main phase, if this monster is in your graveyard and you have exactly 12 other monsters in your graveyard: you can Special Summon this monster, and if you do, give this monster the Regeneration type; then, you can Special Summon 1 other monster from your graveyard.
 	atk: 1200
 	def: 900
 	atkbonus: +360

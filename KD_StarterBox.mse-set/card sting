@@ -1,17 +1,17 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: Thanks to Metaphys for this card effect!
+	notes: 
 	time_created: 2024-12-02 21:26:09
-	time_modified: 2025-01-17 16:38:55
+	time_modified: 2025-01-20 15:49:44
 	card_type: normal monster
 	name: Sting
 	image: image13.png
 	type: Monster|Elemental
 	attribute: fire
 	grade: level level 2
-	textbox: If this card battles a Plant monster, destroy that monster, before damage calculation.
-	effects: If this card battles a Plant monster, destroy that monster, before damage calculation.
+	textbox: If this monster is destroyed in battle, you can target one backrow card on the same column. If it is a spell card, it is destroyed.
+	effects: If this monster is destroyed in battle, you can target one backrow card on the same column. If it is a spell card, it is destroyed.
 	atk: 600
 	def: 500
 	atkbonus: +180
