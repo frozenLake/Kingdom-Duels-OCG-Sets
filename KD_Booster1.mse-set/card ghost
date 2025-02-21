@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Made by Breki-Br
 	time_created: 2024-12-03 12:09:55
-	time_modified: 2024-12-05 17:50:34
+	time_modified: 2025-02-21 13:59:15
 	name: Ghost
 	image: image15.png
+	type: Monster|Undead
+	attribute: dark
+	grade: level level 2
+	textbox: As long as this card is in a “Graveyard” Terrain, it gains 100 ATK for each monster in your graveyard.
+	effects: As long as this card is in a “Graveyard” Terrain, it gains 100 ATK for each monster in your graveyard.
+	atk: 600
+	def: 800
+	atkbonus: +180
+	defbonus: +240
 	cardid: <i-setitalics>BSTR1-26</i-setitalics>

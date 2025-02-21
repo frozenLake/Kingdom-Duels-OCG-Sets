@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Made by Breki-Br
 	time_created: 2024-12-02 21:27:04
-	time_modified: 2024-12-05 17:48:09
+	time_modified: 2025-02-20 17:25:07
 	name: Eleckid
 	image: image10.png
+	type: Monster|Machine|Thunderblast
+	attribute: light
+	grade: level level 3
+	textbox: When this monster battles a Level 4 or lower WATER or Flying monster, halve that monster’s ATK for the duration of the battle.
+	effects: When this monster battles a Level 4 or lower WATER or Flying monster, halve that monster’s ATK for the duration of the battle.
+	atk: 1000
+	def: 500
+	atkbonus: 300
+	defbonus: 150
 	cardid: <i-setitalics>BSTR1-02</i-setitalics>

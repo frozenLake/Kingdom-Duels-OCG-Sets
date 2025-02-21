@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Made by Breki-Br
 	time_created: 2024-12-03 12:09:34
-	time_modified: 2024-12-05 17:52:16
+	time_modified: 2025-02-21 13:58:22
 	name: Hell Gate Deeg
 	image: image18.png
+	type: Monster|Demon|Beast
+	attribute: dark
+	grade: level level 3
+	textbox: During your turn, you may Normal Summon Eroded Demon or Undead-type monsters.
+	effects: During your turn, you may Normal Summon Eroded Demon or Undead-type monsters.
+	atk: 700
+	def: 800
+	atkbonus: +210
+	defbonus: +240
 	cardid: <i-setitalics>BSTR1-21</i-setitalics>
