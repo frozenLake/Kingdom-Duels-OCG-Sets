@@ -1,9 +1,18 @@
 ﻿mse_version: 2.5.6
 card:
 	has_styling: false
-	notes: 
+	notes: Made by Breki-Br
 	time_created: 2024-12-02 21:31:55
-	time_modified: 2024-12-05 22:20:16
+	time_modified: 2025-02-22 10:41:35
 	name: Holy Power
 	image: image23.png
+	type: Monster|Spellcaster|Blessed
+	attribute: light
+	grade: level level 2
+	textbox: Whenever you gain Life Points, increase this monster's ATK and DEF by the same amount. Whenever you lose Life Points, decrease this monster's ATK and DEF by the same amount.
+	effects: Whenever you gain Life Points, increase this monster's ATK and DEF by the same amount. Whenever you lose Life Points, decrease this monster's ATK and DEF by the same amount.
+	atk: 600
+	def: 800
+	atkbonus: +180
+	defbonus: +240
 	cardid: <i-setitalics>BSTR1-20</i-setitalics>
